@@ -10,5 +10,3 @@ RIGHT - go right
 SPACE - pause and unpause the game
 LEFT SHITF = change song
 ESCAPE - quit the game
-
-You can view the code and also play it by downloading the installer.
